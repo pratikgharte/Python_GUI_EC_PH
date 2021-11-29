@@ -1,2 +1,2 @@
-# Python_GUI_EC_PH
-Farmfluence_GUI
+# python_AtlasOEM_lib
+Library for the Atlas Scientific OEM circuits
